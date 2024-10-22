@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+<div align="center">
+  <img height="500" src="https://res.cloudinary.com/dnmjmjdsj/image/upload/v1729554563/image/Screenshot_2024-10-21_at_6.48.53_PM_dym0pe.png"  />
+</div>
 
-
+# Front-End developer |Web animator | lottie animator | languages exchange cordinator
 <h2 align="left">I code with</h2>
 
 ###
@@ -68,4 +71,10 @@ I'm a web ui developer with a degree in computer science and with three years of
 - **Maps (Mapas)**: Geospatial tools and technologies for handling maps and geolocation data.
 
 ---
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://briefcase-lilac.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mateus-arrieta-morelo-739623123/)
+[![project]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://briefcase-lilac.vercel.app/](https://www.events-medellin.com/)
+
 
