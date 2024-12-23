@@ -81,11 +81,10 @@ I'm a web ui developer with a degree in computer science and with three years of
 - **Description:** A showcase of interactive web animations and micro-interactions created using various animation technologies.
 - **Live Demo:** [View Portfolio](https://briefcase-lilac.vercel.app/)
 
-  **view more**  [View more projects](https://www.linkedin.com/in/angel-mateus-arrieta-morelo-739623123/details/projects/)
-
 ---
 
 *Note: Some projects are actively being developed. For more details about specific projects, please reach out via LinkedIn.*
+ **view more**  [View more projects](https://www.linkedin.com/in/angel-mateus-arrieta-morelo-739623123/details/projects/)
 ## 🛠 Tech Stack
 
 ### Front-end Development
