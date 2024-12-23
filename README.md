@@ -49,7 +49,43 @@
 I'm a web ui developer with a degree in computer science and with three years of experience working with JavaScript and frameworks such as React.js, Next.js, Vue.js and Nuxt.js to building animations and interactive accesibles web applications , together with Html , CSS, SVG to layout and design these applications, using GraphQl to structure the data and typescript to defined the project structure .Actually, I use the technology to teach and build learning spaces.
 
 ---
+## 🚀 Featured Projects
+### Independent Software Development: sleep native app 
+- **Tech Stack:** React-native - expo
+- **Description:** native app for Transform your well-being with our expertly designed tools and resources, crafted to help you achieve better sleep
+- **Live Demo:** [View Portfolio](https://www.meditatewithabhi.com/sleep-membership/)
 
+
+### Independent Software Development: VISTA VERDE MALL landing page
+- **Tech Stack:** React.js,Next.js, Tailwind CSS , TypeScript, GSAP .
+- **Description:** Mall shopping landing page , where is shown through 360° imaging info about stores in the mall and shown , events , the better store , the best client . Through this landing page you can find links to direction to 3D stores
+- **Live Demo:** [View Portfolio](https://mall-landing-page.vercel.app/)
+
+### Independent Software Development: sleep music web app
+- **Tech Stack:** React.js,Next.js, Tailwind CSS , TypeScript, Vitest
+- **Description:** web app for Transform your well-being with our expertly designed tools and resources, crafted to help you achieve better sleep
+- **Live Demo:** [View Portfolio](https://sleepappmusic.vercel.app/login) just mobile version
+
+  ### Independent Software Development: Reemp 
+- **Tech Stack:** Vue.js ,Material UI , jest, Nuxt.js .
+- **Description:** web platform to boost professional services and enhance your brands
+- **Live Demo:** [View Portfolio](https://www.linkedin.com/in/angel-mateus-arrieta-morelo-739623123/details/projects/)
+
+### Events Medellin Platform
+- **Tech Stack:** React.js,Wordpress
+- **Description:** A comprehensive platform for discovering and managing events in Medellín, featuring interactive maps and real-time updates.
+- **Live Demo:** [events-medellin.com](https://www.events-medellin.com/)
+
+### Web Animation Portfolio
+- **Tech Stack:** React.js, Lottie, GSAP, CSS3
+- **Description:** A showcase of interactive web animations and micro-interactions created using various animation technologies.
+- **Live Demo:** [View Portfolio](https://briefcase-lilac.vercel.app/)
+
+  **view more**  [View more projects](https://www.linkedin.com/in/angel-mateus-arrieta-morelo-739623123/details/projects/)
+
+---
+
+*Note: Some projects are actively being developed. For more details about specific projects, please reach out via LinkedIn.*
 ## 🛠 Tech Stack
 
 ### Front-end Development
