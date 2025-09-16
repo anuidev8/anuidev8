@@ -35,8 +35,10 @@
 
 
 
-# Front-End developer |Web animator | lottie animator | languages exchange cordinator
-I'm a web ui developer with a degree in computer science and with three years of experience working with JavaScript and frameworks such as React.js, Next.js, Vue.js and Nuxt.js to building animations and interactive accesibles web applications , together with Html , CSS, SVG to layout and design these applications, using GraphQl to structure the data and typescript to defined the project structure .Actually, I use the technology to teach and build learning spaces.
+# Front-End Developer | Web Animator | Lottie Animator | AI Integration 
+
+I’m a Web UI Developer with a degree in Computer Science and over 7 years of professional experience building interactive and accessible applications. I specialize in JavaScript, React.js, Next.js, Vue.js, and Nuxt.js, creating engaging animations and micro-interactions with Lottie, SVG, and CSS.
+I work with TypeScript and GraphQL to design scalable, well-structured projects, and I integrate AI features, automation workflows (n8n), and real-time apps into modern web platforms. Beyond development, I use technology to teach, build learning communities, and create language exchange spaces that connect people through culture and innovation.
 
 ---
 ## 🚀 Featured Projects
