@@ -7,7 +7,7 @@
 # Front-End developer |Web animator | lottie animator | languages exchange cordinator
 <h2 align="left">I code with</h2>
 
-###
+
 
 
 
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-###
+
 
 # Front-End developer |Web animator | lottie animator | languages exchange cordinator
 I'm a web ui developer with a degree in computer science and with three years of experience working with JavaScript and frameworks such as React.js, Next.js, Vue.js and Nuxt.js to building animations and interactive accesibles web applications , together with Html , CSS, SVG to layout and design these applications, using GraphQl to structure the data and typescript to defined the project structure .Actually, I use the technology to teach and build learning spaces.
